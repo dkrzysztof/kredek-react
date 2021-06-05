@@ -26,4 +26,6 @@ Co do rozszerzeń to polecam:
     - `Create-React-App` - aplikacja na komputerze,
     - Alternatywa: `Codepen` - emulator w przeglądarce,
 2. `JavaScript` - Wprowadzenie,
-3. `React` - wprowadzenie, wytłumaczenie `JSX`,
+3. `React` - Wprowadzenie, wytłumaczenie `JSX`,
+
+### [`Część 2 - Pobieranie danych z backend'u `](https://github.com/dkrzysztof/szkolenie-react/tree/master/part-2)
