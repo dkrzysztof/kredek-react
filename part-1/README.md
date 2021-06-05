@@ -416,5 +416,3 @@ const FunctionalComponent = (props) => {
 ```jsx
 ReactDOM.render(<FunctionalComponent name={'Krzysztof'} />, document.getElementById('root'));
 ```
-
-## 3. Ćwiczenie
