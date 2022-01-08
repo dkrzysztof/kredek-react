@@ -362,11 +362,7 @@ Przykładami wyrażeń, które mogą być przekonwertowane na false są:
 ### 2.0. Prerekwizyty _(ukochane)_
 
 -   sklonować repozytorium do siebie na komputer,
--   przejsc punkt 0.1,
-
-lub
-
--   przejsc punkt 0.2,
+-   przejsc punkt `0.1` lub punkt `0.2`
 
 ### 2.1 Strukturka
 

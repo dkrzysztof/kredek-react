@@ -2,7 +2,7 @@
 
 ## Instrukcje
 
-Instrukcje możecie znaleźć w plikach Markdown `README.md`. Można je podejrzeć za pomocą github-a tak jak obecny plik na stronie [repozystorium](https://github.com/dkrzysztof/szkolenie-react-kredek) lub za pomocą `Visual Studio Code`.
+Instrukcje możecie znaleźć w plikach Markdown `README.md`. Można je podejrzeć za pomocą github-a tak jak obecny plik na stronie [repozystorium](https://github.com/dkrzysztof/kredek-react) lub za pomocą `Visual Studio Code`.
 W drugim przypadku otwieramy plik `README.md` (lub `README.old.md` po wywołaniu `npx create-react-app ...` w katalogu projektu) i w prawym górnym rogu klikamy na ikonke "_Open preview to the side_" (dwa prostokąty i lupka) lub za pomocą skrótu `Ctrl + K, V` ( **NIE**: Ctrl + K, Ctrl + V. Zaraz po Ctrl + K kliknij V).
 
 ## Edytor tekstowy
@@ -20,7 +20,7 @@ Co do rozszerzeń to polecam:
 
 ## Plany Szkoleń
 
-### [`Część 1 - Środowisko i podstawy React'a`](https://github.com/dkrzysztof/szkolenie-react-kredek/tree/master/part-1)
+### [`Część 1 - Środowisko i podstawy React'a`](https://github.com/dkrzysztof/kredek-react/tree/master/part-1)
 
 0. Środowisko:
     - `Create-React-App` - aplikacja na komputerze,
@@ -28,4 +28,6 @@ Co do rozszerzeń to polecam:
 1. `JavaScript` - Wprowadzenie,
 2. `React` - Wprowadzenie, wytłumaczenie `JSX`,
 
-### [`Część 2 `](https://github.com/dkrzysztof/szkolenie-react-kredek/tree/master/part-2)
+### [`Część 2 `](https://github.com/dkrzysztof/kredek-react/tree/master/part-2)
+
+_już wkrótce ;)_
