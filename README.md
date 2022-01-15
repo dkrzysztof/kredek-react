@@ -30,4 +30,4 @@ Co do rozszerzeń to polecam:
 
 ### [`Część 2 `](https://github.com/dkrzysztof/kredek-react/tree/master/part-2)
 
-_już wkrótce ;)_
+0.0. Repozytorium Kredka 0. Prerekwizyty do zajęć
