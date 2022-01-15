@@ -1,0 +1,33 @@
+.sidemenu-container {
+	width: 200px;
+}
+
+header.ant-layout-header {
+	background-color: white;
+	box-sizing: content-box;
+	padding: 14px 0 10px 50px;
+	margin: 12px;
+	font-family: Nothing You Could Do;
+	font-size: 28px;
+}
+
+aside.ant-layout-sider {
+	background-color: white;
+}
+
+.logo {
+	height: auto;
+	min-height: 15px;
+	width: 100%;
+	padding: 35px;
+}
+
+.logo img {
+	width: 100%;
+	height: auto;
+}
+
+main.ant-layout-content {
+	background-color: white;
+	margin: 12px;
+}

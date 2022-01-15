@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+		'Droid Sans', 'Helvetica Neue', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+*:root {
+	font-size: 21px;
+}
+
+html {
+	--background-color: rgba(235, 235, 235);
+	background-color: var(--background-color);
+}
+
+#root {
+	height: 100%;
+}
+
+section.ant-layout,
+.ant-layout-footer {
+	background: var(--background-color) !important;
+}
+
+section.ant-layout {
+	height: 100%;
+}
+
+.font-display {
+	font-family: Nothing You Could Do;
+}
+
+h1 {
+	font-size: 1.4rem;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.m-1 {
+	margin: 0.25rem;
+}
+
+.m-2 {
+	margin: 0.5rem;
+}
+
+.m-3 {
+	margin: 0.75rem;
+}
+
+.m-4 {
+	margin: 1rem;
+}
+
+.m-5 {
+	margin: 1.25rem;
+}
