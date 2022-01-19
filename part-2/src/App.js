@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Layout, Menu } from 'antd';
 import { PieChartOutlined, PlusOutlined, ShopOutlined, TeamOutlined } from '@ant-design/icons';
 import GetAllPizzasView from './GetAllPizzasView';
@@ -9,8 +9,10 @@ import './App.css';
 const { Content, Sider, Header, Footer } = Layout;
 
 function App() {
-	const handleChangeToGetAll = () => {};
-	const handleChangeToCreate = () => {};
+	const [isGetPizzaViewVisible, setIsGetPizzaViewVisible] = useState(true);
+
+	const handleChangeToGetAll = () => setIsGetPizzaViewVisible(true);
+	const handleChangeToCreate = () => setIsGetPizzaViewVisible(false);
 
 	return (
 		<Layout style={{ minHeight: '100vh' }}>
@@ -38,9 +40,7 @@ function App() {
 				<Header>
 					<h2>Pizzastic!</h2>
 				</Header>
-				<Content>
-					<GetAllPizzasView />
-				</Content>
+				<Content>{isGetPizzaViewVisible ? <GetAllPizzasView /> : <CreatePizzaView />}</Content>
 				<Footer>@2021 - Kredek Repos</Footer>
 			</Layout>
 		</Layout>
